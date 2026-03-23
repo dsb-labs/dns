@@ -26,11 +26,6 @@ tags-eu.tiqcdn.com
 fundingchoices.google.com
 fundingchoicesmessages.google.com
 
-# Google Wallet - breaks adding PKPASS files
-# Find My Device - breaks adding/sharing trackers
-# Reason for blocking: https://github.com/hagezi/dns-blocklists/issues/2900#issuecomment-2571513897
-auditrecording-pa.googleapis.com
-
 # Needed for additional Google Assistant downloads on Android
 # Required to download Pixel Studio AI models
 # Reason for blocking: https://github.com/hagezi/dns-blocklists/issues/2900#issuecomment-2571513897
