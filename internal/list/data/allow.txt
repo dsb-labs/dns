@@ -245,10 +245,13 @@ z-m-graph.facebook.com
 web.facebook.com
 web-fallback.facebook.com
 
-# Exact function unknown, unblocking may not be needed!
 # Used for third party tracking
+# Reels embeds on third party websites
 connect.facebook.com
 connect.facebook.net
+
+# Used for third party tracking
+# Exact function unknown, unblocking may not be needed!
 mqtt-mini.facebook.com
 ep1.facebook.com
 ep2.facebook.com
