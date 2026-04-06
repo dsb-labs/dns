@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/davidsbond/dns/internal/list"
+	"github.com/dsb-labs/dns/internal/list"
 )
 
 func TestBlock(t *testing.T) {

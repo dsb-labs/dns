@@ -12,7 +12,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/davidsbond/dns/cmd/serve"
+	"github.com/dsb-labs/dns/cmd/serve"
 )
 
 func main() {

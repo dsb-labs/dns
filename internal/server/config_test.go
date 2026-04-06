@@ -8,7 +8,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/davidsbond/dns/internal/server"
+	"github.com/dsb-labs/dns/internal/server"
 )
 
 func TestLoadConfig(t *testing.T) {

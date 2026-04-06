@@ -8,8 +8,8 @@ well as encrypted protocols including DNS-over-TLS (DoT) and DNS-over-HTTPS (DoH
 ## Installation
 
 The DNS server is available as a binary for Windows, Mac & Linux as well as a Docker image. Binaries can be obtained
-from the [releases page](https://github.com/davidsbond/dns/releases) while Docker images can be pulled
-from [ghcr.io](https://github.com/davidsbond/dns/pkgs/container/dns).
+from the [releases page](https://github.com/dsb-labs/dns/releases) while Docker images can be pulled
+from [ghcr.io](https://github.com/dsb-labs/dns/pkgs/container/dns).
 
 ### Usage
 

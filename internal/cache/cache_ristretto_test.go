@@ -9,7 +9,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/davidsbond/dns/internal/cache"
+	"github.com/dsb-labs/dns/internal/cache"
 )
 
 func TestRistrettoCache(t *testing.T) {

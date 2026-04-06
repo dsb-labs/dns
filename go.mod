@@ -1,4 +1,4 @@
-module github.com/davidsbond/dns
+module github.com/dsb-labs/dns
 
 go 1.26
 

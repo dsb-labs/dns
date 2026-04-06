@@ -7,7 +7,7 @@ import (
 
 	"github.com/miekg/dns"
 
-	"github.com/davidsbond/dns/internal/handler"
+	"github.com/dsb-labs/dns/internal/handler"
 )
 
 type (

@@ -45,7 +45,7 @@ upx:
 dockers_v2:
   - id: dns
     images:
-      - "ghcr.io/davidsbond/dns"
+      - "ghcr.io/dsb-labs/dns"
     tags:
       - "{{ .Tag }}"
       - "v{{ .Major }}.{{ .Minor }}"

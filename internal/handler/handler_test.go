@@ -15,11 +15,11 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/davidsbond/dns/internal/cache"
-	"github.com/davidsbond/dns/internal/handler"
-	"github.com/davidsbond/dns/internal/list"
 	"github.com/davidsbond/x/set"
 	"github.com/davidsbond/x/weightslice"
+	"github.com/dsb-labs/dns/internal/cache"
+	"github.com/dsb-labs/dns/internal/handler"
+	"github.com/dsb-labs/dns/internal/list"
 )
 
 func TestHandler_ServeDNS(t *testing.T) {

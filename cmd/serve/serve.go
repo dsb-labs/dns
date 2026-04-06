@@ -6,7 +6,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/davidsbond/dns/internal/server"
+	"github.com/dsb-labs/dns/internal/server"
 )
 
 // Command returns the "serve" command used to start and run the DNS server.
@@ -25,7 +25,7 @@ dns serve config.toml`,
 If no configuration file is specified, the server will handle unencrypted DNS requests on port 53 across all interfaces 
 for both TCP and UDP, upstreaming to Cloudflare DNS. 
 
-For more information on configuration (DoT, DoH etc.) see the documentation at https://github.com/davidsbond/dns.`,
+For more information on configuration (DoT, DoH etc.) see the documentation at https://github.com/dsb-labs/dns.`,
 		Args: cobra.RangeArgs(0, 1),
 		RunE: func(cmd *cobra.Command, args []string) error {
 			var err error

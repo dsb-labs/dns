@@ -18,9 +18,9 @@ import (
 
 	"github.com/davidsbond/x/weightslice"
 
-	"github.com/davidsbond/dns/internal/cache"
-	"github.com/davidsbond/dns/internal/handler"
-	"github.com/davidsbond/dns/internal/list"
+	"github.com/dsb-labs/dns/internal/cache"
+	"github.com/dsb-labs/dns/internal/handler"
+	"github.com/dsb-labs/dns/internal/list"
 )
 
 func init() {
