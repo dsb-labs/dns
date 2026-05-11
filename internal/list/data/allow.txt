@@ -252,13 +252,16 @@ connect.facebook.net
 
 # Used for third party tracking
 # Exact function unknown, unblocking may not be needed!
-mqtt-mini.facebook.com
 ep1.facebook.com
 ep2.facebook.com
 ep6.facebook.com
 ep7.facebook.com
 ep8.facebook.com
 ep9.facebook.com
+
+# Notifications?
+# https://github.com/hagezi/dns-blocklists/issues/8430#issuecomment-4386468382
+mqtt-mini.facebook.com
 
 # Unblock if you use Whatsapp avatar creator, helpcenter or video effects
 graph.whatsapp.com
